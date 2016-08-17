@@ -27,4 +27,6 @@ p {
 }
 
 .message a {
+	color: rgba(200, 50, 50, 0.8);
+	text-decoration: none;
 }
